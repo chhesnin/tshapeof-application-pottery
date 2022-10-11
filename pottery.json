@@ -1,55 +1,55 @@
 [
     {
         "shape": "plate",
-        "color": "132",
+        "color": "white",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-plate-132-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "plate",
-        "color": "518",
+        "color": "red",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-plate-518-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "plate",
-        "color": "222",
+        "color": "green",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-plate-222-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "bowl",
-        "color": "132",
+        "color": "white",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-bowl-132-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "bowl",
-        "color": "518",
+        "color": "red",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-bowl-518-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "bowl",
-        "color": "222",
+        "color": "green",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-bowl-222-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "cup",
-        "color": "132",
+        "color": "white",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-cup-132-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "cup",
-        "color": "518",
+        "color": "red",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-cup-518-600600t.png?raw=true",
         "finalUrl": ""
     },
     {
         "shape": "cup",
-        "color": "222",
+        "color": "green",
         "colorUrl": "https://github.com/chhesnin/tshapeof-application-pottery/blob/main/pottery-cup-222-600600t.png?raw=true",
         "finalUrl": ""
     }
